@@ -1,0 +1,6 @@
+name: dvc-mlflow-pulumi-stack
+runtime:
+  name: python
+  options:
+    # virtualenv: venv
+description: A minimal AWS Python Pulumi program
